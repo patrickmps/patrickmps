@@ -2,8 +2,7 @@
 
 # Olá! Eu sou Patrick!
 
-* 📚 Bacharelando em Sistemas de Informação
-* 👨🏽‍💻 Estudando para ser um desenvolvedor front-end
+* 🧑🏽‍🎓 Bacharel em Sistemas de Informação
 
 <div style="display: flex; flex-direction: column;">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrickmps&show_icons=true&bg_color=105,000000,0d0d0d&border_color=9d4edd&title_color=e0aaff&text_color=9d4edd&icon_color=e0aaff&border_radius=10&include_all_commits=true&count_private=true"/> 
